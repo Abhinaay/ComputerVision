@@ -1,0 +1,23 @@
+Task 1 : detect colour
+Task 2 : object identify
+Task 3 : motion detect
+Task 4 : speed detect
+Task 5 : light detect
+Task 6 : face detect
+Task 7 : Age meter
+
+Project1 : get particular text/keyword from a hard copy book or a wall
+
+Project2 : search an object in an image or grp of images
+
+Project3 : search an object in a video
+
+Project4 : find depth or distance from image capture.
+
+Project5 : find moving direction of dog (going away or far) and find its sentiment
+
+Project6 : face recognition (use LBph with opencv for avg accuracy)
+                            (use dlib in deep learning it is costly in terms of cpu)
+                            (use facebook library for face recognition)
+                            (use Online APIs <YOLO>)
+                            (use Karios api <no need to write code>)
