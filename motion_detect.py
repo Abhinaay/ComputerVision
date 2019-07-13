@@ -20,7 +20,7 @@ def img_diff(x,y,z):
     # diff between y,z      --d2
     d2=cv2.absdiff(y,z)
     # absolute diff. b/w d1 and d2
-    finalimg=cv2.bitwise_and(d1,d2)
+    finalimg=cv2.bitwise_xor(d1,d2)
     return finalimg
 
 
